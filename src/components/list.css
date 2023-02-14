@@ -1,0 +1,20 @@
+.play-area{
+    background-color: rgb(228, 237, 133);
+    padding: 50px;
+    margin:50px 200px;
+    border-radius:15px;
+    font-family: 'Julee', cursive;
+}
+
+.play-button{
+    width:100%;
+    margin: 20px 0;
+    font-size: 200%;
+    text-align: center;
+    border-radius:15px;
+    background-color: aliceblue;
+}
+
+.play-area p{
+    font-size: 30px;
+}
